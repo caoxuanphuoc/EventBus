@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\bin\Debug\net6.0\EventBusTraning.exe
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\bin\Debug\net6.0\EventBusTraning.deps.json
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\bin\Debug\net6.0\EventBusTraning.runtimeconfig.json
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\bin\Debug\net6.0\EventBusTraning.dll
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\bin\Debug\net6.0\EventBusTraning.pdb
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.dll
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\refint\EventBusTraning.dll
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.pdb
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\EventBusTraning.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyFolder\LearnTech\EventBus\EventBusTraning\EventBusTraning\obj\Debug\net6.0\ref\EventBusTraning.dll
